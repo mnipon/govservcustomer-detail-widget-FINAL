@@ -1,0 +1,85 @@
+* {
+  /* margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #f4f4f4; */
+}
+
+.profileContainer {
+  display: flex;
+  height: 90px;
+}
+
+.customerImageContainer {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  width: 66px;
+}
+
+.customerImage {
+  width: 36%;
+  border: 8px solid #e0dede;
+  border-radius: 50%;
+  margin-top: 11px;
+}
+
+.authenticated {
+  border: 8px solid rgb(62, 159, 62);
+}
+
+.profileInfoContainer {
+  display: flex;
+  flex: 2;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: -50px;
+  margin-top: 13px;
+}
+
+.customerName {
+  font-size: 19px;
+  font-family: "Public Sans";
+  font-weight: bold;
+  margin-bottom: 1px;
+}
+
+.checkImage {
+  width: 4%;
+  margin-left: 10px;
+}
+
+.customerPosition {
+  font-size: 12px;
+  font-family: "Public Sans";
+  margin-bottom: 1px;
+}
+
+.customerContact {
+  font-size: 13px;
+  font-family: "Public Sans";
+  margin-bottom: -1px;
+  margin-top: 5px;
+}
+
+.contactImage {
+  width: 3%;
+  margin-right: 5px;
+}
+
+.phoneImage {
+  width: 3%;
+  margin-right: 5px;
+  margin-left: 13px;
+}
+
+.markerImage {
+  width: 3%;
+  margin-right: 5px;
+}
+
+.customerAddress {
+  font-size: 13px;
+  font-family: "Public Sans";
+}

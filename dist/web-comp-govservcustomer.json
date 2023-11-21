@@ -1,0 +1,9 @@
+{
+  "name": "Gitex2023 Government Services Customer",
+  "description": "Government Services Customer - Gitex2023",
+  "tags": ["GovServ, Gitex2023"],
+  "version": "1.0.0",
+  "element": "<web-comp-govservcustomer></web-comp-govservcustomer>",
+  "icon": "neo-icon-crm",
+  "files": ["web-comp-govservcustomer/web-comp-govservcustomer.js"]
+}

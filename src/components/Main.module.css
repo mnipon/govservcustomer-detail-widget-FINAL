@@ -1,0 +1,19 @@
+* {
+  /* margin: 0;
+  padding: 0;
+  box-sizing: border-box; */
+}
+
+.mainContainer {
+  min-width: 559px;
+  width: 98.5%;
+  height: 320px;
+  background-color: #ffffff;
+}
+
+.loading {
+  text-align: center;
+  font-size: 14;
+  font-family: "Public Sans";
+  color: gray;
+}
